@@ -1,6 +1,6 @@
 <img src="./assets/banner.png" />
 
-Hey there! I'm **Gautam**, a 14-year-old software engineer who loves to work on exciting and impactful projects.
+Hey there! I'm **Gautam**, a 14-year-old student, passionate about software engineering.
 
 I've been building my skills for multiple years now, with experience in various projects, including open source and companies. My main focus is full-stack engineering, primarily through React.js, TypeScript, Express.js, and PostgreSQL. I also have experience in mobile development, systems programming, DevOps, and cloud technologies.
 
