@@ -10,6 +10,5 @@ I'm also building [Tripley](https://tripley.app/), a platform that helps travele
 
 If you're interested in chatting about anything software-related or just want to connect, feel free to reach out! You can reach me through:
 
-**Email** - [gautamparanjape8@gmail.com](mailto:gautamparanjape8@gmail.com)
-
-**Twitter** - [https://twitter.com/gautamparanjape](https://twitter.com/gautamparanjape)
+* **Email** - [gautamparanjape8@gmail.com](mailto:gautamparanjape8@gmail.com)
+* **Twitter** - [https://twitter.com/gautamparanjape](https://twitter.com/gautamparanjape)
