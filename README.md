@@ -6,7 +6,7 @@ I've been building my skills for multiple years now, with experience in various 
 
 Currently, I’m working as a product engineer at [Foyer](https://foyer.work), helping maximize the performance of engineering teams.
 
-I'm also building [Tripley](https://tripley.app/), a platform that helps travelers to plan and manage their trips.
+I'm also building [Tripley](https://tripley.app/), a platform that enables travelers to plan and manage their trips.
 
 If you're interested in chatting about anything software-related or just want to connect, feel free to reach out! You can reach me through:
 
