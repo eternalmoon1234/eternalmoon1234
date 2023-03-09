@@ -8,6 +8,8 @@ Currently, I’m working as a product engineer at [Foyer](https://foyer.work), h
 
 I'm also building [Tripley](https://tripley.app/), a platform that enables travelers to plan and manage their trips.
 
+Previously, I worked as a software engineer at [neusleep](https://neusleep.com), a venture-funded startup developing wearables that use personalized electrical nerve stimulation to directly induce and improve natural sleep.
+
 If you're interested in chatting about anything software-related or just want to connect, feel free to reach out! You can reach me through:
 
 * **Email** - [gautamparanjape8@gmail.com](mailto:gautamparanjape8@gmail.com)
