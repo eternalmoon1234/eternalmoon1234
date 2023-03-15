@@ -2,7 +2,7 @@
 
 Hey there! I'm **Gautam**, a 14-year-old student, passionate about startups, software, and open source.
 
-I've been building software for multiple years now, and have experience in various projects, including both open-source and for companies. My main focus is full-stack engineering, primarily in React.js, TypeScript, Express.js, and PostgreSQL, and also systems programming in Rust. I also have experience in mobile development, DevOps, and cloud technologies.
+I've been building software for multiple years now, and have experience through various projects, including both open-source and for companies. My main focus is full-stack engineering, primarily in React.js, TypeScript, Express.js, and PostgreSQL, and also systems programming in Rust. I also have experience in mobile development, DevOps, and cloud technologies.
 
 Currently, I’m working as a product engineer at [Foyer](https://foyer.work), helping maximize the performance of engineering teams.
 
