@@ -1,6 +1,6 @@
 <img src="./assets/banner.png" />
 
-Hey there! I'm **Gautam**, a 14-year-old student, passionate about startups, software, and open source.
+Hey there! I'm **Gautam**, a 15-year-old student, passionate about startups, software, and open source.
 
 I've been building software for multiple years now, and have built many projects, both open-source and for companies. I mainly focus on full-stack/mobile/systems engineering, building consumer apps, and open-source tooling, though I dabble in DevOps and cloud infrastructure.
 
